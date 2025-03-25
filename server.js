@@ -38,7 +38,7 @@ app.get('/', (req, res) => {
         <body>
             <h1>Hello, Saya Allyssa</h1>
             <div class="btn-container">
-                <a href="/form" class="btn btn-primary">Form</a>
+                <a href="/form" class="btn btn-primary">Pergi ke Form</a>
                 <a href="/data" class="btn btn-success">Lihat Data</a>
             </div>
         </body>
